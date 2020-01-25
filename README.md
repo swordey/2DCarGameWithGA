@@ -1,4 +1,4 @@
-# 2D Car Game
+# 2D Car Game With Genetic Algorithm
 
 This is a 2D Car Game in c++ with Qt. 
 
@@ -6,8 +6,11 @@ The game is a topview game, where you have to go through a generated car track, 
 
 ## How to try
 The git repository contains a prebuilt executable for windows. To test it:
-* Download the bin folder
-* Start 2DCarGame.exe
+* Download the bin.zip folder
+* Unzip the bin.zip folder
+* Start bin/2DCarGame.exe
+
+INFO: If it does not work, install bin/vc_redist.X64.exe
 
 ## Deployment
 
