@@ -1,8 +1,10 @@
 # 2D Car Game With Genetic Algorithm
 
-This is a 2D Car Game in c++ with Qt. 
+This is a 2D Car Game written C++ with Qt. 
 
 The game is a topview game, where you have to go through a generated car track, and collect 100 rewards through reward gates. You can play alone, or against a learning genetic algorithm. Find out who learns the track faster. You can visualize only the genetic algorithm either.
+
+![](imgs/showcase.gif)
 
 ## How to try
 The git repository contains a prebuilt executable for windows. To test it:
@@ -11,10 +13,6 @@ The git repository contains a prebuilt executable for windows. To test it:
 * Start bin/2DCarGame.exe
 
 INFO: If it does not work, install bin/vc_redist.X64.exe
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
