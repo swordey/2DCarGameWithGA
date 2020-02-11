@@ -6,11 +6,19 @@ The game is a topview game, where you have to go through a generated car track, 
 
 ![](imgs/showcase.gif)
 
+## Fun facts
+* You can hide the track, and try to go through it by only using a lidar
+![](imgs/hard.png)
+* You can visualize the reward gates, that gives the points
+![](imgs/reward_gates.png)
+
 ## How to try
 The git repository contains a prebuilt executable for windows. To test it:
 * Download the bin.zip folder
 * Unzip the bin.zip folder
 * Start bin/2DCarGame.exe
+* Click on "Show only AI"
+![](imgs/ui.png)
 
 INFO: If it does not work, install bin/vc_redist.X64.exe
 
